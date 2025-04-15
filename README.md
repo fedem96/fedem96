@@ -1,7 +1,7 @@
 ### Hi there, I'm Federico :wave:
 
++ :man_technologist: Currently working as _NLP Team Lead (Deep Learning)_ in [Artificialy SA](https://www.artificialy.com/)
 + :mortar_board: Graduated with a masters in Computer Engineering from the University of Florence
-+ :telescope: Looking for an exciting opportunity in the Artificial Intelligence world
 
 #### My skills :bulb:
 
